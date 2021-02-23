@@ -19,7 +19,7 @@ I'm a pre-final year student pursuing Bachelors's in Computer Science 🎓 from 
 - 🚀 &nbsp; I’m currently learning Machine Learning, <br /> Data Analytics and Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/parthshingari28).
 - 📫 &nbsp; How to reach me: parthshingari14@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://github.com/parthshingari28/parthshingari28/blob/main/Resume_Parth.pdf).
 
 ### My Absolute Favorites:
 
